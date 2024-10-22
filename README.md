@@ -47,3 +47,8 @@ For advanced projects, you must provide a detailed report of your work and contr
 We reserve the right to request a one-on-one meeting to review code, implementation, and features for any reason.
 
 10 pts. Meetings with your group (if a person of one, just write what you did). You will provide this at the bottom of your read-me file. The points include some class dates for meeting your group members in class (or at a different time for online students). 
+
+### Meetings
+| Date & Time | Subject | Location | Notes |
+| ----------- | ------- | -------- | ----- |
+| 10/18, 1pm  | Initial meeting | Library | Delegated initial tasks | |
