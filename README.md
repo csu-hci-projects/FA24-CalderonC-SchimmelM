@@ -11,7 +11,7 @@ One level must be a “menu” scene with a start button that loads the first le
 Both of the non-menu levels must have static meshes with materials applied for the user to navigate. (10 PTS)
 Each non-menu level must have at least 3 targets and at least 3 hazards
 
-Targets can be any mesh, but must have a “health” variable. Their starting health should be 100. (20 PTS) - CADEN
+Targets can be any mesh, but must have a “health” variable. Their starting health should be 100. (20 PTS) 
 The health variable is an integer that is reduced when shot (the exact amount of health lost is up to you). After a target’s health reaches 0 or less the target should be destroyed.
 Once all targets in a level are destroyed the next level should automatically be loaded (see 2b and 2c for details).
 
