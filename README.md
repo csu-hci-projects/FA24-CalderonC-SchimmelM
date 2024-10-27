@@ -1,4 +1,5 @@
 # Homework 1
+#### Participants: Caden Calderon, Matthew Schimmel
 Our application is from Unreal. So just like any other game file, you simply must click on it to play (or press play in the editor)
 
 Our video showcasing the features: https://youtu.be/7sNY5H7I-HM
