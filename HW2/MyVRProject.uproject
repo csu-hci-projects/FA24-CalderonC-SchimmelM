@@ -38,6 +38,13 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenXRVisionOS",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"VisionOS"
+			]
 		}
 	],
 	"TargetPlatforms": [
