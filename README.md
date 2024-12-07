@@ -22,3 +22,7 @@ The application is a video game built in Unreal Engine
 #### What is needed to run it:
 To run this program, a user would need a virtual reality headset. The one we used is the Meta Quest 2. 
 The user would also need Unreal Engine 5.4.4 to edit the game.
+
+### Meetings:
+Our team met in class on Monday the second to discuss our progress with the homework and future steps.
+Furthermore, we also completed another meeting today (Friday the sixth) to finalize the functionality of our homework.
